@@ -21,6 +21,9 @@ Esta é uma aplicação full stack web construída para consumir os dados de uma
 ## Back end
 Pré-requisitos: PHP 7 ou superior
 
+Caso necessário instalar a biblioteca php-CURL
+apt-get install php-curl
+
 # Autor
 
 Júlio César Belenke dos Santos
